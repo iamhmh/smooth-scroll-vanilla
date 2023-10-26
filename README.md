@@ -1,6 +1,6 @@
 # Smooth Horizontal Scroll in Vanilla CSS and JS
 
-This project implements a simple scroll effect using CSS and JavaScript. 
+This project implements a simple horinzontal scroll effect with a parallax using CSS and JavaScript. 
 
 ## Getting Started
 
