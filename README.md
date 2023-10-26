@@ -1,4 +1,4 @@
-# Simple Smooth Scroll in Vanilla CSS and JS
+# Smooth Horizontal Scroll in Vanilla CSS and JS
 
 This project implements a simple scroll effect using CSS and JavaScript. 
 
